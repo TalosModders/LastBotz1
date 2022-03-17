@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"msg_connected": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": false,
+	"auto_leave_msg": false,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumberr": "62882017072737",
+	"ownername": "Talos Modders",
+	"botname":"LastBotz",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"captionpay":"Scan untuk melakukan pembayaran",
+	"fake": " 「  LAST BOTZ  」\nRecode By Talos Modders"
+}
