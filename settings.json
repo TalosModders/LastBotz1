@@ -4,7 +4,7 @@
 	"msg_connected": false,
 	"user_register": true,
 	"anti_delete" : false,
-	"anticall": false,
+	"anticall": true,
 	"auto_welcome_msg": false,
 	"auto_leave_msg": false,
 	"prefix": ".",
