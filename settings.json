@@ -1,7 +1,7 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"msg_connected": false,
+	"msg_connected": true,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": false,
