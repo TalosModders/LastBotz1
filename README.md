@@ -27,8 +27,8 @@
 > pkg install ffmpeg -y
 > pkg install nodejs -y
 > pkg install git -y
-> git clone https://github.com/talosmodders/LastMd
-> cd LastMd
+> git clone https://github.com/talosmodders/LastBotz1
+> cd LastBotz1
 > npm install
 > npm start
 ```
