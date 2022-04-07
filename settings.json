@@ -2,7 +2,7 @@
     "self_mode": false,
 	"autobio": false,
 	"msg_connected": false,
-	"user_register": true,
+	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
 	"auto_welcome_msg": false,
